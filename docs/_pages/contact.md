@@ -1,5 +1,5 @@
 ---
-permalink: ../docs/_pages/contact/
+permalink: /docs/_pages/contact/
 title: "Contact"
 ---
 
