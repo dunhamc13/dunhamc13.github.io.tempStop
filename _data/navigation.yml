@@ -3,7 +3,7 @@ main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Contact"
-    url: /docs/_pages/contact/ # URL must match the permalink in the contact.md file
+    url: ../docs/_pages/contact/ # URL must match the permalink in the contact.md file
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
