@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Christian Dunham"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://avatars2.githubusercontent.com/u/57208208?s=400&u=53e3e456f8f56bcf5323d27db3d3f925c26508aa&v=4"
   bio              : "Unique blend of Special Operations Leadership, Retail Managment, and Cybersecurity Engineering."
   location         : "Greater Seattle Area"
   email            : christian@cddunham.com
