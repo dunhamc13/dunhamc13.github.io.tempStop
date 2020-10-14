@@ -2,6 +2,8 @@
 main:
   - title: "Contact"
     url: https://dunhamc13.github.io/contact/ # URL must match the permalink in the contact.md file
+  - title: "CISO Dashboard"
+    url: https://dunhamc13.github.io/feed/ # URL must match the permalink in the contact.md file
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
