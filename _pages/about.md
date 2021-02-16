@@ -11,7 +11,7 @@ As a former Special Forces Detachment Commander, I have unique knowledge in thin
 <p></p>
 My strengths include planning, leading, team building, design, problem-solving, and achieving outcomes.
 <p></p>
-<p><center><figure><img src ="https://github.com/dunhamc13/dunhamc13.github.io/blob/master/655.jpeg?raw=true" width="300"><img hspace="20"><figcaption>Cross-Cultural Leadership</figcaption></figure></center></p>  
+<p><center><figure><img src ="https://github.com/dunhamc13/dunhamc13.github.io/blob/master/655.jpg?raw=true" width="300"><img hspace="20"><figcaption>Cross-Cultural Leadership</figcaption></figure></center></p>  
 <p></p>
 My soft skills include unique leadership experience, time-sensitive planning, cross-cultural team building, customer segmentation, and red team planning and execution in the physical domain.
 <p></p>
