@@ -9,7 +9,7 @@ gallery:
     title: "Image 1 title caption"
  
 ## About Me!
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+include gallery caption="This is a sample gallery with **Markdown support**."
 <center><img src ="../assets/images/IMG_5120.jpeg" width="150"></center>  
 I am a dynamic leader and team maker with 15 years of professional experience. My diverse background melds one of a kind Special Forces leadership with customer-centric retail experience and software engineering.
 <p></p>
