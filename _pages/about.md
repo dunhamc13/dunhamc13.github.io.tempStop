@@ -10,7 +10,7 @@ gallery:
  
 ## About Me!
 include gallery caption="This is a sample gallery with **Markdown support**."
-<center><img src ="https://github.com/dunhamc13/dunhamc13.github.io/blob/master/assets/images/IMG_5120.jpeg" width="150"></center>  
+<center><img src ="https://github.com/dunhamc13/dunhamc13.github.io/assets/images/IMG_5120.jpeg" width="150"></center>  
 I am a dynamic leader and team maker with 15 years of professional experience. My diverse background melds one of a kind Special Forces leadership with customer-centric retail experience and software engineering.
 <p></p>
 As a former Special Forces Detachment Commander, I have unique knowledge in thinking like the 'hacker' demonstrated in the physical domain. I spent years looking at the architecture of combatant armies and societal structures through the lens of the guerrilla identifying weak points, gathering information to develop attack vectors. During my transition to the civilian world, I spent time in the retail sector, learning how to be obsessed with the end-to-end customer experience. Now, my past and present skills are forging a career in cybersecurity. 
