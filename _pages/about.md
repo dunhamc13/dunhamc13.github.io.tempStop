@@ -2,14 +2,9 @@
 permalink: /about/
 title: "About Me!"
 ---
-gallery:
-  - url: /assets/images/IMG_5120.jpeg
-    image_path: /assets/images/IMG_5120.jpeg.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
  
 ## About Me!
-include gallery caption="This is a sample gallery with **Markdown support**."
+![alt text](https://github.com/dunhamc13/dunhamc13.github.io/assets/images/IMG_5120.jpeg)
 <center><img src ="https://github.com/dunhamc13/dunhamc13.github.io/assets/images/IMG_5120.jpeg" width="150"></center>  
 I am a dynamic leader and team maker with 15 years of professional experience. My diverse background melds one of a kind Special Forces leadership with customer-centric retail experience and software engineering.
 <p></p>
