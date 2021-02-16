@@ -2,10 +2,12 @@
 permalink: /about/
 title: "About Me!"
 ---
- 
+ <style> .indented { padding-left: 50pt; padding-right: 50pt; } </style>
+
+Read more: https://html.com/paragraphs/#ixzz6mc7UiAQj
 ## About Me!
 <center><img src ="https://github.com/dunhamc13/dunhamc13.github.io/blob/master/IMG_5120.jpg?raw=true" width="150"></center>  
-<p ALIGN=CENTER>I am a dynamic leader and team maker with 15 years of professional experience. My diverse background melds one of a kind Special Forces leadership with customer-centric retail experience and software engineering.</p>
+<p class="indented">I am a dynamic leader and team maker with 15 years of professional experience. My diverse background melds one of a kind Special Forces leadership with customer-centric retail experience and software engineering.</p>
 <p></p>
 <p ALIGN=CENTER>As a former Special Forces Detachment Commander, I have unique knowledge in thinking like the 'hacker' demonstrated in the physical domain. I spent years looking at the architecture of combatant armies and societal structures through the lens of the guerrilla identifying weak points, gathering information to develop attack vectors. During my transition to the civilian world, I spent time in the retail sector, learning how to be obsessed with the end-to-end customer experience. Now, my past and present skills are forging a career in cybersecurity. </p>
 <p></p>
