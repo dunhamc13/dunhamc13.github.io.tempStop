@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About Me!"
 ---
- <style> .indented { padding-left: 50pt; padding-right: 50pt; } </style>
+ <style> .indented { padding-left: 10pt; padding-right: 10pt; } </style>
 
 Read more: https://html.com/paragraphs/#ixzz6mc7UiAQj
 ## About Me!
