@@ -1,3 +1,8 @@
+---
+permalink: /about/
+title: "About Me!"
+---
+
 ## About Me!
 <center><img src ="./IMG_5120.jpeg" width="150"></center>  
 I am a dynamic leader and team maker with 15 years of professional experience. My diverse background melds one of a kind Special Forces leadership with customer-centric retail experience and software engineering.
