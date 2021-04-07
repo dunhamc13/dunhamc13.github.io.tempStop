@@ -7,8 +7,7 @@ title: "About Me!"
   margin-left: auto;
   margin-right: auto; width: 50%; } </style>
   <style>
-  figure {
-}
+
   figure figcaption {
    font-style: italic;
   padding: 2px;
@@ -23,7 +22,7 @@ title: "About Me!"
 <p></p>
 <p class="indented">My strengths include planning, leading, team building, design, problem-solving, and achieving outcomes.</p>
 <p></p>
-<p><center><figure><img src ="https://github.com/dunhamc13/dunhamc13.github.io/blob/master/655.jpg?raw=true" class="half"><img hspace="20"><figcaption class="figure-caption text-center"><center>Cross-Cultural Leadership</center></figcaption></figure></center></p>  
+<p><center><figure><img src ="https://github.com/dunhamc13/dunhamc13.github.io/blob/master/655.jpg?raw=true" class="half"><img hspace="20"><figcaption class="figure-caption text-center">Cross-Cultural Leadership</figcaption></figure></center></p>  
 <p></p>
 <p class="indented">My soft skills include unique leadership experience, time-sensitive planning, cross-cultural team building, customer segmentation, and red team planning and execution in the physical domain.</p>
 <p></p>
