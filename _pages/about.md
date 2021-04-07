@@ -9,7 +9,7 @@ title: "About Me!"
   <style>
 figure {
     display: inline-block;
-    border: 1px dotted gray;
+
     margin: 20px; /* adjust as needed */
 }
 figure img {
