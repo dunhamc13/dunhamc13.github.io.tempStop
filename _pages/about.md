@@ -16,7 +16,7 @@ figure img {
     vertical-align: top;
 }
 figure figcaption {
-    border: 1px dotted blue;
+    border: 1px dotted gray;
     text-align: center;
 }
   </style>
