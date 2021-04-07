@@ -1,5 +1,5 @@
 ---
-permalink: /pentest/
+permalink: /SFN/
 title: "Signal From Noise!"
 ---
  <style> .indented { padding-left: 10pt; padding-right: 10pt; } </style>
