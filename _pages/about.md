@@ -5,7 +5,7 @@ title: "About Me!"
  <style> .indented { padding-left: 10pt; padding-right: 10pt; } </style>
 <style> .half {     display: block;
   margin-left: auto;
-  margin-right: auto; width: 50%; } </style>
+  margin-right: auto; width: 50%; text-align: center;} </style>
   <style>
 
 figure {
