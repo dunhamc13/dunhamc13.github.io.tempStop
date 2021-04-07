@@ -23,13 +23,13 @@ of machines. Thus far in the initial Design the hate feature has been implemente
 <p></p>
 <p class="indented">I enlisted the help of my then 12 year old son.  Taking off the heat plates to instal M2 hard drives to support two operating systems, Windows 10 and Kali Linux.  Each operating system back up with clones and images.</p>
 <p></p>
-<p><center><figure><img class="half" src ="https://github.com/dunhamc13/dunhamc13.github.io/blob/master/CM_RF?raw=true"><img hspace="20"><figcaption>Motherboard, 3 Radiators + 7 fans, and Cooling Tank Installed</figcaption></figure></center></p>  
+<p><center><figure><img class="half" src ="https://github.com/dunhamc13/dunhamc13.github.io/blob/master/CM_RF.png?raw=true"><img hspace="20"><figcaption>Motherboard, 3 Radiators + 7 fans, and Cooling Tank Installed</figcaption></figure></center></p>  
 <p></p>
 <p class="indented">Designing the project was fun.  I tried to make sure the hardware would support network model simulations.</p>
 <p></p>
 <p class="indented">First time bending glass and making custom loops.  Water tested with two methods and 24 hours.</p>
 <p></p>
-<p><center><figure><img class="half" src ="https://github.com/dunhamc13/dunhamc13.github.io/blob/master/dtree.png?raw=true"><img hspace="20"><figcaption>Water Testing 24 hours</figcaption></figure></center></p>  
+<p><center><figure><img class="half" src ="https://github.com/dunhamc13/dunhamc13.github.io/blob/master/dTree.png?raw=true"><img hspace="20"><figcaption>Water Testing 24 hours</figcaption></figure></center></p>  
 
 <p></p>
 <p><center><figure><img class="half" src ="https://github.com/dunhamc13/dunhamc13.github.io/blob/master/feat.png?raw=true"><img hspace="20"><figcaption>Water Testing Pressure Test</figcaption></figure></center></p>  
