@@ -11,14 +11,14 @@ title: "About Me!"
 figure {
   display: inline-block;
   text-align: center;
-  border: 0px dotted gray;
+  border: 1px dotted gray;
   margin: 5px; /* adjust as needed */
 }
 figure img {
   vertical-align: top;
 }
 figure figcaption {
-  border: 0px dotted blue;
+  border: 1px dotted blue;
 }
 
 ## About Me!
