@@ -8,15 +8,6 @@ title: "About Me!"
   margin-right: auto; width: 50%; } </style>
   <style>
   figure {
-  float: right;
-  width: 30%;
-  text-align: center;
-  font-style: italic;
-  font-size: smaller;
-  text-indent: 0;
-  border: thin silver solid;
-  margin: 0.5em;
-  padding: 0.5em;
 }
   figure figcaption {
    font-style: italic;
