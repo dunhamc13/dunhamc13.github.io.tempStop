@@ -6,7 +6,7 @@ title: "About Me!"
 <style> .half {     display: block;
   margin-left: auto;
   margin-right: auto; width: 50%; text-align: center;} </style>
-  <style>
+
 
 figure {
     display: inline-block;
@@ -20,7 +20,7 @@ figure figcaption {
     border: 1px dotted blue;
     text-align: center;
 }
-  </style>
+
 ## About Me!
 <center><img src ="https://github.com/dunhamc13/dunhamc13.github.io/blob/master/IMG_5120.jpg?raw=true" class="half"></center>  
 <p class="indented">I am a dynamic leader and team maker with 15 years of professional experience. My diverse background melds one of a kind Special Forces leadership with customer-centric retail experience and software engineering.</p>
