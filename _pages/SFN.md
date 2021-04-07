@@ -31,7 +31,4 @@ of machines. Thus far in the initial Design the hate feature has been implemente
 <p></p>
 <p><center><figure><img class="half" src ="https://github.com/dunhamc13/dunhamc13.github.io/blob/master/dTree.png?raw=true"><img hspace="20"><figcaption>Water Testing 24 hours</figcaption></figure></center></p>  
 
-<p></p>
-<p><center><figure><img class="half" src ="https://github.com/dunhamc13/dunhamc13.github.io/blob/master/feat.png?raw=true"><img hspace="20"><figcaption>Water Testing Pressure Test</figcaption></figure></center></p>  
-<p class="indented">The most important thing I learned, wasn't how to build a computer or to understand IO and kernel interupts or privilege better.  It was spending time with my son, teaching and learning the craft that will help make sure that when he's 30 he won't have to worry about a routers BGP vulnerability exposing him to loss.  That's why I do this.</p>
 
