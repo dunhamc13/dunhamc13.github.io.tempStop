@@ -8,10 +8,17 @@ title: "About Me!"
   margin-right: auto; width: 50%; } </style>
   <style>
 
-  figure figcaption {
-   font-style: italic;
-  padding: 2px;
-  text-align: center;
+figure {
+    display: inline-block;
+    border: 1px dotted gray;
+    margin: 20px; /* adjust as needed */
+}
+figure img {
+    vertical-align: top;
+}
+figure figcaption {
+    border: 1px dotted blue;
+    text-align: center;
 }
   </style>
 ## About Me!
