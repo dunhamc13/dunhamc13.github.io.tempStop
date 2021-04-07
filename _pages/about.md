@@ -8,18 +8,7 @@ title: "About Me!"
   margin-right: auto; width: 50%; text-align: center;} </style>
 
 
-figure {
-  display: inline-block;
-  text-align: center;
-  border: 1px dotted gray;
-  margin: 5px; /* adjust as needed */
-}
-figure img {
-  vertical-align: top;
-}
-figure figcaption {
-  border: 1px dotted blue;
-}
+figure { display: inline-block; border: 1px dotted gray; margin: 20px; /* adjust as needed */ } figure img { vertical-align: top; } figure figcaption { border: 1px dotted blue; text-align: center; }
 
 ## About Me!
 <center><img src ="https://github.com/dunhamc13/dunhamc13.github.io/blob/master/IMG_5120.jpg?raw=true" class="half"></center>  
