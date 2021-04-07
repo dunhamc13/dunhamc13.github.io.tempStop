@@ -6,7 +6,15 @@ title: "Signal From Noise!"
 <style> .half {     display: block;
   margin-left: auto;
   margin-right: auto; width: 50%; } </style>
-
+<style>
+    figure {
+    display: inline-block;
+    margin: 20px; /* adjust as needed */}
+    figure img {
+      vertical-align: top;}
+    figure figcaption {
+    text-align: center;}
+ </style>
 ## How to use social media to detect the signal from noise!  Predicting Violent Uprisings with Machine Learning
 <center><img src ="https://github.com/dunhamc13/dunhamc13.github.io/blob/master/teaser.png?raw=true" class="half"></center>  
 <p class="indented">This project, Signal From Noise (SFN), explores Special Forces Doctrine and social media as features to predict the use of violence to overthrow a government. SFN aims to produce a higher level of accuracy in contrast to traditional approaches that have focused their features on social and economic sciences.</p>
