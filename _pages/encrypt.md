@@ -1,16 +1,33 @@
-﻿# Encryption Assignment For 577
+---
+permalink: /Crypto/
+title: "Encrypt"
+---
+ <style> .indented { padding-left: 10pt; padding-right: 10pt; } </style>
+<style> .half {     display: block;
+  margin-left: auto;
+  margin-right: auto; width: 50%; } </style>
+<style>
+    figure {
+    display: inline-block;
+    margin: 20px; /* adjust as needed */}
+    figure img {
+      vertical-align: top;}
+    figure figcaption {
+    text-align: center;}
+ </style>
+## Encryption Utility
+<center><img src ="https://github.com/dunhamc13/dunhamc13.github.io/blob/master/teaser.png?raw=true" class="half"></center>  
 
 
 ## Running the applications
 
 ### Runtime: .NET 5.0
 
-### File Structure is Visual Studio Project: 
 
 ### Configurations
 Command Line Arguments:`
 
-password : user created keep it to decrypt file must be 24 characters
+password : user created to decrypt file must be 24 characters
 
 key size(128,192,256) : program supports AES128 AES256 and 3DES192, input just the keysize in bits 
 
@@ -22,14 +39,13 @@ file to encrypt : in VS proj append ../../../file.ext to place in folder with ot
 
 ### Current Description of Implementation
 The progam uses a driver that checks command line arguments.  Once arguments are set it will first
-enrypt a file to a byte array.  At this time, it will automatically decrypt that file to very 
-that the master key and password along with the encrypted data structure will allow for 
-parsing the metadata and IV to correctly decrypt. It removes extra padding at end of decrypt.
+enrypt a file to a byte array.  Byte array then has additional header material for decryption added.  For tesint purposes
+the utility automatically decrypts that file on a round trip.  Utility removes extra padding at end of decrypt.
 
 ### Current Description of future Implementation
 3DES needs more modularaization.. needs to be separated out.
 
-Will move the driver to me user prompted to allow a user to start with decryption instead of encryption.
+Will move the driver to user prompt to allow a user to start with decryption instead of encryption.
 
 ## Performance Discussions on PBKDF2
 Key derivations are done using PBKDF2 provided in the [.NET 5.0](https://docs.microsoft.com/en-us/dotnet/api/system.security.cryptography.rfc2898derivebytes?view=net-5.0)
@@ -54,6 +70,6 @@ performed the table below summarizes a balance of 5,000,000 iterations for the e
 | TXT                |     1 KB        | 3.73 secs        |
 | ISO                |     2.034GB     | 13.78 secs
  
-The interprestion of what is seen is that the key generation iteration is not the bottleneck of the encryption. The size of the file to encrypt is
+Key generation iteration is not the bottleneck of the encryption. The size of the file to encrypt is
 what creates the largest overhead.  I am personally comfortable with a 3 second wait time to encrypt a single file.
 
