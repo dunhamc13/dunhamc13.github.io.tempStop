@@ -6,6 +6,8 @@ main:
     url: https://dunhamc13.github.io/pentest/ # URL must match the permalink in the contact.md file
   - title: "SFN"
     url: https://dunhamc13.github.io/SFN/ # URL must match the permalink in the contact.md file
+  - title: "Crypto"
+    url: https://dunhamc13.github.io/encrypt/ # URL must match the permalink in the contact.md file
   - title: "Contact"
     url: https://dunhamc13.github.io/contact/ # URL must match the permalink in the contact.md file
 #  - title: "CISO Dashboard"
