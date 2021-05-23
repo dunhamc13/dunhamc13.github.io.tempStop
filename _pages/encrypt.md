@@ -16,7 +16,7 @@ title: "Encrypt"
     text-align: center;}
  </style>
 ## Encryption Utility
-<center><img src ="https://github.com/dunhamc13/dunhamc13.github.io/blob/master/teaser.png?raw=true" class="half"></center>  
+<center><img src ="https://github.com/dunhamc13/dunhamc13.github.io/blob/master/crypto.png?raw=true" class="half"></center>  
 
 
 ## Running the applications
