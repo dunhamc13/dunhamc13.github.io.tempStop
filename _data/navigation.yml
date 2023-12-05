@@ -2,12 +2,12 @@
 main:
   - title: "About"
     url: https://dunhamc13.github.io/about/ # URL must match the permalink in the contact.md file
-  - title: "Pentest"
-    url: https://dunhamc13.github.io/pentest/ # URL must match the permalink in the contact.md file
-  - title: "SFN"
-    url: https://dunhamc13.github.io/SFN/ # URL must match the permalink in the contact.md file
-  - title: "Crypto"
-    url: https://dunhamc13.github.io/Crypto/ # URL must match the permalink in the contact.md file
+  #- title: "Pentest"
+  #  url: https://dunhamc13.github.io/pentest/ # URL must match the permalink in the contact.md file
+  #- title: "SFN"
+  #  url: https://dunhamc13.github.io/SFN/ # URL must match the permalink in the contact.md file
+  #- title: "Crypto"
+  #  url: https://dunhamc13.github.io/Crypto/ # URL must match the permalink in the contact.md file
   - title: "Contact"
     url: https://dunhamc13.github.io/contact/ # URL must match the permalink in the contact.md file
 #  - title: "CISO Dashboard"
